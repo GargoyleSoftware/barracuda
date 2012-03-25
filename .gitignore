@@ -1,0 +1,14 @@
+build/
+media/
+*.pyc
+*.db
+*.sqlite
+
+# Celery
+celerybeat-schedule
+
+# Mac OS
+.DS_Store
+
+# VirtualEnv
+venv/
